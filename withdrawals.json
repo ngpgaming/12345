@@ -1,15 +1,5 @@
 [
   {
-    "id": 345,
-    "type": "WITHDRAW",
-    "detail": "ARPAY",
-    "time": "2025-11-30 17:12:02",
-    "balance": 25000,
-    "status": "completed",
-    "order": "WD202511171259467890287192S",
-    "remarks": "REJECTED"
-  },
-  {
     "id": 346,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
