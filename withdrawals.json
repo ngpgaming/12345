@@ -3,9 +3,9 @@
     "type": "WITHDRAW",
     "detail": "USDT",
     "time": "2025-11-29 11:21:19",
-    "balance": 37000.54,
+    "balance": 37000.00,
     "status": "processing",
-    "order": "WD202511171259467890287192S",
+    "order": "WD202511291259467890287112D",
     "remarks": "-"
   }
 ]
