@@ -2,10 +2,19 @@
   {
     "type": "WITHDRAW",
     "detail": "USDT",
-    "time": "2025-11-29 11:21:19",
+    "time": "2025-11-29 01:21:19",
     "balance": 37000.00,
     "status": "processing",
-    "order": "WD202511291259467890287112D",
+    "order": "WD202511290121197890287112D",
+    "remarks": "-"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-11-29 11:44:06",
+    "balance": 7000.00,
+    "status": "processing",
+    "order": "WD202511291144064982098371B",
     "remarks": "-"
   }
 ]
