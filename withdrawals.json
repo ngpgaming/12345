@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-11-29 11:21:19",
+    "balance": 37000.54,
+    "status": "processing",
+    "order": "WD202511171259467890287192S",
+    "remarks": "-"
+  }
+]
