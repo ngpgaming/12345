@@ -2,10 +2,10 @@
   {
     "id": 345,
     "type": "WITHDRAW",
-    "detail": "USDT",
+    "detail": "ARPAY",
     "time": "2025-11-30 17:12:02",
     "balance": 25000,
-    "status": "rejected",
+    "status": "completed",
     "order": "WD202511171259467890287192S",
     "remarks": "REJECTED"
   },
