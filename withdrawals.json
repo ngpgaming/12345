@@ -1,5 +1,6 @@
 [
   {
+    "id": 345,
     "type": "WITHDRAW",
     "detail": "ARPAY",
     "time": "2025-11-30 17:12:02",
@@ -9,6 +10,7 @@
     "remarks": "REJECTED"
   },
   {
+    "id": 346,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
     "time": "2025-11-30 14:11:47",
@@ -18,6 +20,7 @@
     "remarks": "-"
   },
   {
+    "id": 347,
     "type": "WITHDRAW",
     "detail": "USDT",
     "time": "2025-11-29 13:21:19",
@@ -27,6 +30,7 @@
     "remarks": "-"
   },
   {
+    "id": 348,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
     "time": "2025-11-29 11:44:06",
