@@ -4,7 +4,7 @@
     "detail": "ARPAY",
     "time": "2025-11-30 17:12:02",
     "balance": 25000,
-    "status": "processing",
+    "status": "completed",
     "order": "WD202511171259467890287192S",
     "remarks": "REJECTED"
   },
@@ -13,7 +13,7 @@
     "detail": "BANK CARD",
     "time": "2025-11-30 14:11:47",
     "balance": 15000,
-    "status": "processing",
+    "status": "completed",
     "order": "WD202511171259467890287192S",
     "remarks": "-"
   },
@@ -22,7 +22,7 @@
     "detail": "USDT",
     "time": "2025-11-29 13:21:19",
     "balance": 37000,
-    "status": "processing",
+    "status": "completed",
     "order": "WD202511290121197890287112D",
     "remarks": "-"
   },
@@ -31,7 +31,7 @@
     "detail": "BANK CARD",
     "time": "2025-11-29 11:44:06",
     "balance": 7000,
-    "status": "processing",
+    "status": "completed",
     "order": "WD202511291144064982098371B",
     "remarks": "-"
   }
