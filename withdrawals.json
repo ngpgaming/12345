@@ -5,7 +5,7 @@
     "detail": "BANK CARD",
     "time": "2025-12-03 20:44",
     "balance": 20000,
-    "status": "processing",
+    "status": "completed",
     "order": "WD202512032044064982098371B",
     "remarks": "-"
   }
