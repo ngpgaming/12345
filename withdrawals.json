@@ -3,10 +3,10 @@
     "id": 350,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
-    "time": "2025-12-05 22:37:07",
-    "balance": 37000.54,
-    "status": "rejected",
-    "order": "gdgdgd",
+    "time": "2025-12-05 22:37",
+    "balance": 37000,
+    "status": "completed",
+    "order": "WD2025120522370089891828B",
     "remarks": "-"
   },
   {
