@@ -1,5 +1,13 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-06 13:21:12",
+    "balance": -37000.54,
+    "remarks": "CONTACT MENTOR",
+    "refOrder": "WD202511171259467890287192S"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-12-31 10:47:11",
