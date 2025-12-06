@@ -1,8 +1,8 @@
 [
   {
-    "type": "WITHDRAW",
-    "detail": "WITHDRAW",
-    "time": "2025-12-19 10:47:11",
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-31 10:47:11",
     "balance": 55000.6,
     "remarks": "-"
   },
