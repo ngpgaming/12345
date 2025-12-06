@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-19 10:47:11",
+    "balance": 55000.6,
+    "remarks": "-"
+  },
+  {
     "type": "ADVANCE MILA H",
     "detail": "ADVANCE MILA",
     "time": "2025-12-05 22:40:39",
