@@ -1,5 +1,15 @@
 [
   {
+    "id": 352,
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-12-06 13:21:12",
+    "balance": 37000.54,
+    "status": "rejected",
+    "order": "WD202511171259467890287192S",
+    "remarks": "-"
+  },
+  {
     "id": 351,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
