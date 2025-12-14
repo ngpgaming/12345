@@ -5,7 +5,7 @@
     "detail": "USDT",
     "time": "2025-12-08 19:46:49",
     "balance": 15000,
-    "status": "processing",
+    "status": "rejected",
     "order": "33",
     "remarks": "-"
   }
